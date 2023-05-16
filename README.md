@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Development and testing of the operation of the method of finding similar images using hashing codes**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **radek0054@interia.pl**
 
